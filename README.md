@@ -63,6 +63,15 @@ Actualmente en formación continua y abierta a prácticas profesionales.
 
 </div>
 
+
+## 🐍 Mis contribuciones
+
+<div align="center">
+
+![Snake dark](https://raw.githubusercontent.com/mmrm-miranda/mmrm-miranda/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ---
 
 ##  Contacto
