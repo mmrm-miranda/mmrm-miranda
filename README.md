@@ -15,7 +15,7 @@
 Miriam Miranda Rodríguez Morales
 Desarrolladora de software apasionada por construir cosas que importan.
 Desde interfaces web hasta sistemas embebidos IoT.
-Actualmente en formación continua y abierta a prácticas profesionales.
+Actualmente en formación continua.
 ```
 
 ---
